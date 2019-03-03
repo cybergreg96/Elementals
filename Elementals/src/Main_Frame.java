@@ -9,7 +9,6 @@ public class Main_Frame extends JFrame {
 		getContentPane().add(suitePanel);
 	}
 
-
 	public void start() {
 		this.setSize(700, 700);
 		this.setVisible(true);
